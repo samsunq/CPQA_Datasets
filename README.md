@@ -1,7 +1,6 @@
 # CPQA_Datasets
 The CPQA Datasets which include all the picture data for Camouflage People in field
 
-
 To support our CPQA method, we captured 4,500 images using RGB cameras. These images include 10 typical vegetation scenes and a combination of 8 different human-shaped camouflage devices in various environmental settings.
 
 The following link provides download addresses for the original images of the dataset as well as the transformed image sizes.
@@ -20,4 +19,5 @@ Currently, the main camouflage techniques aim to blend the target texture seamle
 The vegetation species collected in the dataset are classified according to the "Encyclopedia of Chinese Resources Science". The data we collected is characterized by wide distribution, diverse types, complex species, and diverse ecological adaptability. It includes both native types developed under natural environmental conditions and persistent secondary types formed by human interference. Therefore, we believe that the dataset we have created is usable and generalizable.
 ![伪装MOS图示例](https://github.com/samsunq/CPQA_Datasets/assets/90139092/45c82959-0ae0-45c6-88a8-09168116b13a)
 
-
+Attention:
+[CPQA_Datasets version 1.0 only give the MOS value for every pic. The next version version we will give the detection and segmentation ground-truth for every pic, which could support for camouflage detection works]
