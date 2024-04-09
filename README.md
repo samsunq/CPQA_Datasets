@@ -18,5 +18,6 @@ Currently, the main camouflage techniques aim to blend the target texture seamle
 ![image](https://github.com/samsunq/CPQA_Datasets/assets/90139092/39c25d74-d414-4367-8ff8-d2031802eb53)
 
 The vegetation species collected in the dataset are classified according to the "Encyclopedia of Chinese Resources Science". The data we collected is characterized by wide distribution, diverse types, complex species, and diverse ecological adaptability. It includes both native types developed under natural environmental conditions and persistent secondary types formed by human interference. Therefore, we believe that the dataset we have created is usable and generalizable.
-![Uploading image.png…]()
+![伪装MOS图示例](https://github.com/samsunq/CPQA_Datasets/assets/90139092/45c82959-0ae0-45c6-88a8-09168116b13a)
+
 
