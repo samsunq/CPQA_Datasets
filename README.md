@@ -8,6 +8,8 @@ The following link provides download addresses for the original images of the da
 Download link：https://pan.baidu.com/s/1VkrKXQfWwNxDgzsJ3W4QxA 
 fetching code：3qu9 
 
+During training and testing, we resize the images to 512x384 for processing. The dataset includes both the original images （6240x3512）and the cropped training images, making it convenient for other researchers to compare the results after training.
+
 To represent the diversity of image content in each CPQA database, we display in Figure A five different attributes for image subjective/objective evaluation, namely SSIM, PSNR, RMSE, VIF, and LIPS. This data is stored in an Excel spreadsheet for users to reference.
 
 After completing the data collection, we uniformly crop the dataset into images of size 1024*768. Then, we conduct subjective evaluations following the steps outlined in section 4.1 of the article and record the corresponding scores. The initial scoring table provided to participants is based on subjective assessments of the quality of camouflage effects. Initial scores range from 0 to 10, where 0 indicates no camouflage at all, 3 indicates that the target can still be easily identified despite the use of camouflage equipment, 5 indicates the presence of camouflage but the target can be discerned upon observation, 7 indicates that after a period of careful observation, the target can be separated from the background, and 10 indicates the camouflage target is completely unidentifiable. Other scores represent evaluations of the degree of camouflage between these defined levels.
