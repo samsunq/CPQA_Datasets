@@ -2,12 +2,22 @@
 
 🔥 News
 We release CPQA_Datasets V2![2024-9-15]
+
 🎶 Introduction
-📍We have found that military targets are widely applied in the current security domain; however, the issues of reference segmentation, detection, and evaluation effectiveness of military targets under camouflage and occlusion conditions have been rarely studied. In response, we used civilian camouflage clothing to capture images of camouflage and occlusion in real scenes within the CPQA dataset. As we further refined our work, we realised that military targets could be significantly affected by shooting pixels, smoke, and other objective conditions. Therefore, we employed web scraping technology to collect 10,000 real battlefield images from the internet, from which we extracted 2K images with moderate clarity that matched camouflage scenarios. We then merged these images with those we had previously captured to form the CPQA V2 dataset. This dataset will include comprehensive annotated data for REF segmentation, evaluation, and detection, laying the groundwork for preliminary deep learning research in the niche field of military camouflage.
+
+**2.0**📍We have found that military targets are widely applied in the current security domain; however, the issues of reference segmentation, detection, and evaluation effectiveness of military targets under camouflage and occlusion conditions have been rarely studied. In response, we used civilian camouflage clothing to capture images of camouflage and occlusion in real scenes within the CPQA dataset. As we further refined our work, we realised that military targets could be significantly affected by shooting pixels, smoke, and other objective conditions. Therefore, we employed web scraping technology to collect 10,000 real battlefield images from the internet, from which we extracted 2K images with moderate clarity that matched camouflage scenarios. We then merged these images with those we had previously captured to form the CPQA V2 dataset. This dataset will include comprehensive annotated data for REF segmentation, evaluation, and detection, laying the groundwork for preliminary deep learning research in the niche field of military camouflage.
 Link：(https://pan.baidu.com/s/1_WVfgc1qgCqTt8cJDKxQFQ)
 fetch code：zct9
 
-📍The CPQA Datasets which include all the picture data for Camouflage People in field
+🖌️ DEMO
+The newly added battlefield data includes three main categories of targets: person, vehicle, and others. The vehicle category encompasses tanks, armoured vehicles, cars, and towed equipment found on the battlefield. The others category includes targets that are obscured or completely covered by camouflage nets, which can be regarded as camouflage net targets.
+![05577](https://github.com/user-attachments/assets/37e4d1e1-2377-4c55-aa3c-326fd7f2e824)
+![05317](https://github.com/user-attachments/assets/9ec25bc2-16cd-4168-aa42-7ed1e77a5688)
+![05700](https://github.com/user-attachments/assets/e33a798f-4b3a-48a4-bd10-b5bd57676c3b)
+
+
+
+**1.0**📍The CPQA Datasets which include all the picture data for Camouflage People in field
 To support our CPQA method, we captured 4,500 images using RGB cameras. These images include 10 typical vegetation scenes and a combination of 8 different human-shaped camouflage devices in various environmental settings.
 The following link provides download addresses for the original images of the dataset as well as the transformed image sizes.
 
