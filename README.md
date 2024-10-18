@@ -2,6 +2,7 @@
 
 🔥 News
 We release CPQA_Datasets V2![2024-9-15]
+We release CPQA_Datasets label![2024-10-18]
 
 🎶 Introduction
 
@@ -9,11 +10,15 @@ We release CPQA_Datasets V2![2024-9-15]
 Link：(https://pan.baidu.com/s/1_WVfgc1qgCqTt8cJDKxQFQ)
 fetch code：zct9
 
+🖌️ COD Test result
+we conduct a comparison of the COL with three newest COD methods on this dataset, including Camodiffusion, FEDER, PRNET, note that the predicted maps from all methods are obtained from open-source codes. From Fig, we can observe that the COL model achieves excellent performance as good as these networks, and COL model accurately segments objects with small proportions, and local details of camouflage tar gets. The qualitative results demonstrate that both mainstream COD methods and our COL model can achieve excellent performance on this dataset, proving the validity and adaptability of our dataset.
+![Uploading detection.png…]()
+
+
 🖌️ DEMO
 The newly added battlefield data includes three main categories of targets: person, vehicle, and others. The vehicle category encompasses tanks, armoured vehicles, cars, and towed equipment found on the battlefield. The others category includes targets that are obscured or completely covered by camouflage nets, which can be regarded as camouflage net targets.
-![05577](https://github.com/user-attachments/assets/37e4d1e1-2377-4c55-aa3c-326fd7f2e824)
-![05317](https://github.com/user-attachments/assets/9ec25bc2-16cd-4168-aa42-7ed1e77a5688)
-![05700](https://github.com/user-attachments/assets/e33a798f-4b3a-48a4-bd10-b5bd57676c3b)
+![Uploading 新增.png…]()
+
 
 
 
