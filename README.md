@@ -12,12 +12,14 @@ fetch code：zct9
 
 🖌️ COD Test result
 we conduct a comparison of the COL with three newest COD methods on this dataset, including Camodiffusion, FEDER, PRNET, note that the predicted maps from all methods are obtained from open-source codes. From Fig, we can observe that the COL model achieves excellent performance as good as these networks, and COL model accurately segments objects with small proportions, and local details of camouflage tar gets. The qualitative results demonstrate that both mainstream COD methods and our COL model can achieve excellent performance on this dataset, proving the validity and adaptability of our dataset.
-![Uploading detection.png…]()
+![detection](https://github.com/user-attachments/assets/bb99124e-7f91-45ce-a1e9-4dd2337e7e5f)
+
 
 
 🖌️ DEMO
 The newly added battlefield data includes three main categories of targets: person, vehicle, and others. The vehicle category encompasses tanks, armoured vehicles, cars, and towed equipment found on the battlefield. The others category includes targets that are obscured or completely covered by camouflage nets, which can be regarded as camouflage net targets.
-![Uploading 新增.png…]()
+![新增](https://github.com/user-attachments/assets/a29f8f74-1852-403f-aca5-440f56f08e06)
+
 
 
 
