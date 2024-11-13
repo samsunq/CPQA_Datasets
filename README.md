@@ -7,8 +7,8 @@ We release CPQA_Datasets label![2024-10-18]
 🎶 Introduction
 
 **2.0**📍We have found that military targets are widely applied in the current security domain; however, the issues of reference segmentation, detection, and evaluation effectiveness of military targets under camouflage and occlusion conditions have been rarely studied. In response, we used civilian camouflage clothing to capture images of camouflage and occlusion in real scenes within the CPQA dataset. As we further refined our work, we realised that military targets could be significantly affected by shooting pixels, smoke, and other objective conditions. Therefore, we employed web scraping technology to collect 10,000 real battlefield images from the internet, from which we extracted 2K images with moderate clarity that matched camouflage scenarios. We then merged these images with those we had previously captured to form the CPQA V2 dataset. This dataset will include comprehensive annotated data for REF segmentation, evaluation, and detection, laying the groundwork for preliminary deep learning research in the niche field of military camouflage.
-Link：(https://pan.baidu.com/s/1_WVfgc1qgCqTt8cJDKxQFQ)
-fetch code：zct9
+Link：(https://pan.baidu.com/s/1el5_lfKrOANe_TNtjCYerg)
+fetch code：rlsm
 
 🖌️ COD Test result
 we conduct a comparison of the COL with three newest COD methods on this dataset, including Camodiffusion, FEDER, PRNET, note that the predicted maps from all methods are obtained from open-source codes. From Fig, we can observe that the COL model achieves excellent performance as good as these networks, and COL model accurately segments objects with small proportions, and local details of camouflage tar gets. The qualitative results demonstrate that both mainstream COD methods and our COL model can achieve excellent performance on this dataset, proving the validity and adaptability of our dataset.
